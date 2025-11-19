@@ -19,8 +19,8 @@ modules:
     sources:
       - type: git
         url: https://github.com/be1/qspeakers.git
-        tag: '1.8'
-        commit: d0522e55483a7c8856b4cc6826514594134e5893
+        tag: 1.8.5
+        commit: 417a2320be87b79073bbc2ecb190d29c084dd4da
         x-checker-data:
           type: git
           tag-pattern: ^(\d.+)$
